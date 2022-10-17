@@ -1,0 +1,15 @@
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\bin\Debug\net6.0\S9_task_66.exe
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\bin\Debug\net6.0\S9_task_66.deps.json
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\bin\Debug\net6.0\S9_task_66.runtimeconfig.json
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\bin\Debug\net6.0\S9_task_66.dll
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\bin\Debug\net6.0\S9_task_66.pdb
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.csproj.AssemblyReference.cache
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.AssemblyInfoInputs.cache
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.AssemblyInfo.cs
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.csproj.CoreCompileInputs.cache
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.dll
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\refint\S9_task_66.dll
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.pdb
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\S9_task_66.genruntimeconfig.cache
+C:\Users\Kahlan\Desktop\Hometask\S9_task_66\obj\Debug\net6.0\ref\S9_task_66.dll
